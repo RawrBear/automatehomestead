@@ -1,4 +1,4 @@
-baseURL: "https://your-username.github.io/automatehomestead/"
+baseURL: "https://github.com/RawrBear/automatehomestead.git"
 languageCode: en-us
 title: AutomateHomestead
 theme: hugo-theme-bootstrap
