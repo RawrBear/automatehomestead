@@ -1,3 +1,6 @@
-baseURL: https://example.org/
+baseURL: "https://your-username.github.io/automatehomestead/"
 languageCode: en-us
-title: My New Hugo Site
+title: AutomateHomestead
+theme: hugo-theme-bootstrap
+params:
+  description: "Smart automation for small businesses – because your time is sacred."
