@@ -1,6 +1,11 @@
 baseURL: "https://github.com/RawrBear/automatehomestead.git"
 languageCode: en-us
 title: AutomateHomestead
-theme: hugo-theme-bootstrap
-params:
-  description: "Smart automation for small businesses – because your time is sacred."
+theme: hugo-theme-blowfish
+params:  
+  description: "Smart automation for small businesses – because your time is sacred."  
+  colorScheme: "emerald"  # Modern green vibe  
+  # featuredImage: "img/home-automation-hero.jpg"  
+markup:  
+  highlight:  
+    style: "github-dark"  
